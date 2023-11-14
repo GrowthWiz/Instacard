@@ -1,4 +1,4 @@
-# Instacard
+# Instacart
 ## Objective
 ### The leading online grocery store operating through an app. The mission is to leverage the power of data to uncover hidden patterns and contribute to Instacart's ongoing success!
 ## Data
